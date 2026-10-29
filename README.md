@@ -19,4 +19,17 @@
 ac: @kitazatoshigure on X
 <div align="center">
 
+  
+<details>
+  <summary>
+    <sub>${\textsf{\color{#c4670f}award \color{#c4990f} accounts \color{#b8c40f} I'm \color{#55ac17} mentioned \color{#158c29} in:}}$</sub>
+  </summary>
+
+  <p>
+    <a href="https://github.com/pt-friendships">@pt-friendships</a>
+    <a href="https://github.com/THE-TEMPIST">@THE-TEMPIST</a>
+  </p>
+</details>
+
+
 ![](https://files.catbox.moe/19282v.png)
