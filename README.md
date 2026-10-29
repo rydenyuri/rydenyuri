@@ -22,7 +22,7 @@ ac: @kitazatoshigure on X
   
 <details>
   <summary>
-    <sub>${\textsf{\color{#c4670f}award \color{#c4990f} accounts \color{#b8c40f} I'm \color{#55ac17} mentioned \color{#158c29} in:}}$</sub>
+    <sub>$awards!$</sub>
   </summary>
 
   <p>
