@@ -30,6 +30,7 @@ ac: @kitazatoshigure on X
     <a href="https://github.com/THE-TEMPIST">@THE-TEMPIST</a>
     <a href="https://github.com/piddlesjet">@piddlesjet</a>
     <a href="https://github.com/bug-town">@bug-town</a>
+    <a href="https://github.com/pt-everypony">@pt-everypony</a>
   </p>
 </details>
 
