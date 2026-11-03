@@ -31,6 +31,7 @@ ac: @kitazatoshigure on X
     <a href="https://github.com/piddlesjet">@piddlesjet</a>
     <a href="https://github.com/bug-town">@bug-town</a>
     <a href="https://github.com/pt-everypony">@pt-everypony</a>
+    <a href="https://github.com/Knox-Event">@Knox-Event</a>
   </p>
 </details>
 
