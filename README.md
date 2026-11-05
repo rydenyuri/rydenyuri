@@ -19,17 +19,19 @@
 ac: @kitazatoshigure on X
 <div align="center">
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314niq7hugucgokp6s572onrvdyi&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&profanity=false&hide_remaster=false&bar_color=a3a3a3&bar_color_cover=false">
+  </a>
+</p>
+
   
 <details>
   <summary>
     <sub>$awards!$</sub>
   </summary>
 
-  <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314niq7hugucgokp6s572onrvdyi&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&profanity=false&hide_remaster=false&bar_color=a3a3a3&bar_color_cover=false">
-  </a>
-</p>
+  
 
   <p>
     <a href="https://github.com/pt-friendships">@pt-friendships</a>
