@@ -25,6 +25,12 @@ ac: @kitazatoshigure on X
     <sub>$awards!$</sub>
   </summary>
 
+  <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314niq7hugucgokp6s572onrvdyi&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&profanity=false&hide_remaster=false&bar_color=a3a3a3&bar_color_cover=false">
+  </a>
+</p>
+
   <p>
     <a href="https://github.com/pt-friendships">@pt-friendships</a>
     <a href="https://github.com/THE-TEMPIST">@THE-TEMPIST</a>
