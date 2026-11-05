@@ -41,6 +41,7 @@ ac: @kitazatoshigure on X
     <a href="https://github.com/pt-everypony">@pt-everypony</a>
     <a href="https://github.com/Knox-Event">@Knox-Event</a>
     <a href="https://github.com/pony-town-nominations">@pony-town-nominations</a>
+    <a href="https://github.com/animal-town">@animal-town</a>
   </p>
 </details>
 
